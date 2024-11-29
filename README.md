@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link rel="stylesheet" href="ict.css" type="text/css">
+  <link rel="stylesheet" href="[ict.css](https://justmered06.github.io/ICT.CSS/)" type="text/css">
   <title> ICT PORTOLIO </title>
 </head>
 <body>
