@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://justmered06.github.io/ICT.CSS/" type="text/css">
+<style>
+  .DIVDARK {background-color:#0194da;}
+.DIVLIGHT {background-color:#c0ecff;}
+body{font-family:Comic Sans Ms; text-align:center; background-image:url("ICT BACKGROUND.jpg"); background-size: 100% auto;}
+img{float:left;}
+h1{font-size:xx-large;font-weight:bold;}
+h4{font-weight:bold;}
+ol{list-style-type:disc;}
+</style>
 <title> ICT PORTOLIO </title></head>
 <body>
 
